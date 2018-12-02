@@ -35,7 +35,7 @@ Para tal foi utilizada a biblioteca OpenCV para C++, de modo a realizar o tratam
 
 *Tecnologias Utilizadas: C++, OpenCV, Qt, Qt Creator, DICOM, GitHub, Trello, LaTeX, Texmaker, entre outras.*
 
-![Interface](https://raw.githubusercontent.com/david-branco/osteotomy/master/screenshots/manual.pngg)<br>
+![Interface](https://raw.githubusercontent.com/david-branco/osteotomy/master/screenshots/manual.png)<br>
 
 [Mais Screenshots](https://github.com/david-branco/osteotomy/tree/master/screenshots)
 
