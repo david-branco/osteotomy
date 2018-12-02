@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Femur.png</file>
+        <file>images/Tibia.png</file>
+    </qresource>
+</RCC>
