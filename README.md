@@ -35,9 +35,9 @@ Para tal foi utilizada a biblioteca OpenCV para C++, de modo a realizar o tratam
 
 *Tecnologias Utilizadas: C++, OpenCV, Qt, Qt Creator, DICOM, GitHub, Trello, LaTeX, Texmaker, entre outras.*
 
-![Interface](https://github.com/david-branco/osteotomy/tree/master/screenshotsmanual.png)<br>
+![Interface](https://raw.githubusercontent.com/david-branco/osteotomy/master/screenshots/manual.pngg)<br>
 
-[Mais Screenshots](https://raw.githubusercontent.com/david-branco/osteotomy/master/screenshots/)
+[Mais Screenshots](https://github.com/david-branco/osteotomy/tree/master/screenshots)
 
 O sistema possui entre as suas funcionalidades principais:
 - Carregar ficheiros DICOM;
